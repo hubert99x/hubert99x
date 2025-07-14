@@ -11,14 +11,18 @@
 📈 Interested in real-time data processing, automation, and scalable architecture  
 🔬 Currently building a streaming analytics system for commodity prices (Docker + Kafka + Spark + dbt + Grafana)
 
+
 ## 🛠️ Skills
 TBD
+
 
 ## 🚀 Featured Projects
 TBD
 
+
 ## 📜 Certifications
 TBD
+
 
 ## 📫 Get In Touch
 TBD mail linkedin
