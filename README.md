@@ -9,7 +9,8 @@
 🛠️ Learning tools like Apache Spark, Kafka, Airflow, Docker & dbt    
 ☁️ Working with data platforms such as PostgreSQL, Azure and Snowflake    
 📈 Interested in real-time data processing, automation, and scalable architecture    
-🔬 Currently building a streaming analytics system for commodity prices (Docker + Kafka + Spark + dbt + Grafana)
+🔬 Currently building a streaming analytics system for commodity prices (Docker + Kafka + Spark + dbt + Grafana)  
+📚 Favorite book: *Fundamentals of Data Engineering: Plan and Build Robust Data Systems*
 
 
 ## 🛠️ Skills
