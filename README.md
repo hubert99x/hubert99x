@@ -1,4 +1,4 @@
-#  Hello 👋
+#  Hello 👋 I'm Hubert Szott
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hubert99x&layout=compact&theme=tokyonight)
 
