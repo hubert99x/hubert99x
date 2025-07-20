@@ -48,7 +48,7 @@
 ---
 
 ## 🚀 Featured Projects
-- [Heart Disease Risk Analysis](https://github.com/hubert99x/heart-disease-analysis) – heart disease risk factor analysis based on survey data – can be run in Databricks or locally using Jupyter/VS Code.
+- [Heart Disease Risk Analysis](https://github.com/hubert99x/heart-disease-analysis) – heart disease risk factor analysis based on survey data – can be run in Databricks or locally using Jupyter Notebook.
 
 - [Flask REST API Project](https://github.com/hubert99x/rest-api-flask-project) - REST API service built with Flask – can be run locally or inside a Docker container.
 
